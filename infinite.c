@@ -1,0 +1,8 @@
+#include "turing.h"
+
+TURING_START
+
+STATE(0, 0, RIGHT, 2, 0, RIGHT, 2)
+STATE(1, 0, LEFT, 1, 0, LEFT, 1)
+
+TURING_END
